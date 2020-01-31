@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Go Rich!</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">CODEPUSH_KEY</string>
+</resources>
